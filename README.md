@@ -1,1 +1,1 @@
-DEMO APP MDS 
+DEMO APP 
