@@ -4,10 +4,10 @@
     "slug": "DEMO",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/        ",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/        ",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
