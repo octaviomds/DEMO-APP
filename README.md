@@ -19,4 +19,7 @@ exemple:
 
 ![Image 18-12-2024 à 13 48](https://github.com/user-attachments/assets/1b44c9ec-ad45-4357-876e-cae272b0333b)
 
+exemple react:
+
+![Capture d’écran 2024-12-26 à 23 47 07](https://github.com/user-attachments/assets/439eb83b-b929-4599-a566-4dd9a5bbd5a3)
 
