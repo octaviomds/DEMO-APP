@@ -31,9 +31,6 @@ exemple:
 
 
 
-exemple react:
-
-![Capture d’écran 2024-12-26 à 23 47 07](https://github.com/user-attachments/assets/439eb83b-b929-4599-a566-4dd9a5bbd5a3)
 
 
 
