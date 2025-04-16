@@ -6,7 +6,6 @@ DEMO APP A MODIFIER:
 
 
 
-![Image 16-04-2025 à 02 38](https://github.com/user-attachments/assets/91dcde9c-c0f4-4a2e-a02f-49ed7302e412)
 
 
 ![Image 16-04-2025 à 02 42](https://github.com/user-attachments/assets/178f2cbe-e733-4e80-aeca-2b6c60977a13)
