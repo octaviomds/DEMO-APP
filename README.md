@@ -17,6 +17,10 @@ DEMO APP A MODIFIER:
 ![IMG_3555 2](https://github.com/user-attachments/assets/8e4bb530-f939-46fc-8a3b-d9ca08f6197f)
 
 
+<img width="2285" alt="Capture d’écran 2025-05-04 à 03 13 39 2" src="https://github.com/user-attachments/assets/7e97e0b6-c9ab-4eb0-92df-f59b1ec76187" />
+
+
+![Image 04-05-2025 à 03 17 2](https://github.com/user-attachments/assets/e6948fbd-dca8-4c74-a345-a6a567de291c)
 
 
 Avec la possiblibilté de le publier sur app store ou play store selon le plan.
